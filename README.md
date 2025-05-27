@@ -4,3 +4,13 @@
 
 Me and my teammate collaborated together and developed a real-time cricket shot classification system by converting video audio into spectrograms to pinpoint high-amplitude peaks and extract the corresponding key frames. Those frames are processed with Detectron2 pose estimation to pull out skeletal keypoints, which a convolutional neural network then uses to accurately classify each shot type.
 
+### Results Preview
+
+![Shot Classification Results](https://github.com/sreyas23/Cricket-Shot-Classification-Using-OpenCV/blob/66e765714776fbc5995e3a3e3162a9db719fad94/results_real-time.png)
+
+Find out my results above.
+
+### Full Report
+
+[Download the full project report (PDF)](Cricket-Shot-Classification-Report.pdf)
+
