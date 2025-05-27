@@ -12,5 +12,5 @@ Find out my results above.
 
 ### Full Report
 
-[Download the full project report (PDF)](Cricket-Shot-Classification-Report.pdf)
+[Download the full project report (PDF)](https://github.com/sreyas23/Cricket-Shot-Classification-Using-OpenCV/blob/055a8b19465bc790b556b809533d835d8d979a84/vjayaram_sreyasir_project_report.pdf)
 
